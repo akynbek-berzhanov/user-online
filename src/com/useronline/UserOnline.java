@@ -1,4 +1,4 @@
-package com.packag.UserOnline;
+package com.useronline;
 
 import java.time.LocalDate;
 

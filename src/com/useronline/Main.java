@@ -1,10 +1,8 @@
-package com.packag.UserOnline;
+package com.useronline;
 
 import java.time.LocalDate;
 import java.time.Month;
-import java.util.Comparator;
 import java.util.List;
-import java.util.Optional;
 import java.util.Random;
 import java.util.stream.Stream;
 
